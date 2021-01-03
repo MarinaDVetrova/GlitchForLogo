@@ -1,0 +1,21 @@
+.logo {
+    width: 122px;
+    height: 30px;
+    position: relative;
+    margin-right: 40px;
+    float: left;
+}
+
+.logo span {
+    position: absolute;
+    top: 0;
+    background-image: url(/images/dd.1.1/logo_glitch.png);
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+}
+
+.logo span.logo-w {
+    left: 0;
+    z-index: 1;
+}
