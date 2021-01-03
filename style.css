@@ -26,3 +26,8 @@
     display: none;
 }
 
+.logo span.logo-g {
+    right: -2px;
+    background-position: 0px -60px;
+    display: none;
+}
